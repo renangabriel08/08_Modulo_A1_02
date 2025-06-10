@@ -1,0 +1,813 @@
+[
+  {
+    "nome": "Unidade 2500",
+    "endereco": "Rua Antônio José Nurchis, 2500",
+    "bairro": "Vila Yolanda",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.54996470806419,
+    "longitude": -46.7973636028467
+  },
+  {
+    "nome": "Unidade A. Zabotto",
+    "endereco": "Avenida Sarah Veloso, 15",
+    "bairro": "Veloso",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.5678098,
+    "longitude": -46.80953445
+  },
+  {
+    "nome": "Unidade Alfa",
+    "endereco": "Rua Professor José Azevedo Minhoto, 580",
+    "bairro": "Km 18",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.52946974206793,
+    "longitude": -46.794196236642506
+  },
+  {
+    "nome": "Unidade Analice",
+    "endereco": "Avenida Analice Sakatauskas, 120",
+    "bairro": "Bela Vista",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.54714609999775,
+    "longitude": -46.77528030188264
+  },
+  {
+    "nome": "Unidade Avanço",
+    "endereco": "Avenida Doutor Martin Luther King, 461",
+    "bairro": "Umuarama",
+    "cidade": "Osasco",
+    "uf": "SP"
+  },
+  {
+    "nome": "Unidade Bovery",
+    "endereco": "Avenida Valter Boveri, 240",
+    "bairro": "Bussocaba",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.568378799999998,
+    "longitude": -46.7923672
+  },
+  {
+    "nome": "Unidade Bowie",
+    "endereco": "Avenida José Barbosa de Siqueira, 727",
+    "bairro": "Padroeira",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.555284135996523,
+    "longitude": -46.802135574047384
+  },
+  {
+    "nome": "Unidade Bravo",
+    "endereco": "Praça Nossa Senhora dos Remédios, 1",
+    "bairro": "Remédios",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.52010715,
+    "longitude": -46.75289459581673
+  },
+  {
+    "nome": "Unidade Brisa",
+    "endereco": "Avenida Prestes Maia, 50",
+    "bairro": "Jardim D' Abril",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.566830805097073,
+    "longitude": -46.780282253429846
+  },
+  {
+    "nome": "Unidade Carrefour",
+    "endereco": "Avenida dos Autonomistas, 1542",
+    "bairro": "Vila Yara",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.530387510505403,
+    "longitude": -46.78680733964039
+  },
+  {
+    "nome": "Unidade Cauá",
+    "endereco": "Rua Piacatu, 701",
+    "bairro": "Munhoz Júnior",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.499454903745995,
+    "longitude": -46.80709842280766
+  },
+  {
+    "nome": "Unidade Charlie",
+    "endereco": "Rua Werner Battenfeld, 150",
+    "bairro": "Presidente Altino",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.5237015,
+    "longitude": -46.762222828338466
+  },
+  {
+    "nome": "Unidade Colibri",
+    "endereco": "Avenida Horácio Lafer, 1163",
+    "bairro": "Jardim das Flores",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.532152465490732,
+    "longitude": -46.79607245497293
+  },
+  {
+    "nome": "Unidade Continental",
+    "endereco": "Avenida dos Autonomistas, 351",
+    "bairro": "Vila Yara",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.530387510505403,
+    "longitude": -46.78680733964039
+  },
+  {
+    "nome": "Unidade Dani-Rafa",
+    "endereco": "Avenida Crisântemo, 25",
+    "bairro": "Jardim das Flores",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.53428161476446,
+    "longitude": -46.79362915466609
+  },
+  {
+    "nome": "Unidade Dar' A",
+    "endereco": "Avenida Visconde de Nova Granada, 125",
+    "bairro": "Cipava",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.537590309603818,
+    "longitude": -46.78775100271639
+  },
+  {
+    "nome": "Unidade Delta",
+    "endereco": "Rua Garibaldi, 55",
+    "bairro": "Piratininga",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.5204642,
+    "longitude": -46.78978488616483
+  },
+  {
+    "nome": "Unidade Echo",
+    "endereco": "Avenida Valter Boveri, 633",
+    "bairro": "Bussocaba",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.563399654566535,
+    "longitude": -46.797648473356396
+  },
+  {
+    "nome": "Unidade Extra",
+    "endereco": "Rua Catarina Fazio Antoniazzi, 23",
+    "bairro": "Helena Maria",
+    "cidade": "Osasco",
+    "uf": "SP"
+  },
+  {
+    "nome": "Unidade Foxtrot",
+    "endereco": "Rua Agudos, 1",
+    "bairro": "Rochdale",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.514171879874546,
+    "longitude": -46.77675298235516
+  },
+  {
+    "nome": "Unidade Golf",
+    "endereco": "Avenida dos Autonomistas, 6650",
+    "bairro": "Km 18",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.536614685572278,
+    "longitude": -46.780658141235214
+  },
+  {
+    "nome": "Unidade Golf III",
+    "endereco": "Avenida João de Andrade, 400",
+    "bairro": "Santo Antônio",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.55338350762223,
+    "longitude": -46.80093063737417
+  },
+  {
+    "nome": "Unidade Gran Fort",
+    "endereco": "Avenida Antônio Carlos Costa, 903",
+    "bairro": "Bela Vista",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.546249437575447,
+    "longitude": -46.78307647377674
+  },
+  {
+    "nome": "Unidade Helena Maria",
+    "endereco": "Rua Presidente Costa e Silva, 633",
+    "bairro": "Helena Maria",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.500051892199924,
+    "longitude": -46.79571010973469
+  },
+  {
+    "nome": "Unidade Horizonte do Brasil",
+    "endereco": "Avenida Brasil, 137",
+    "bairro": "Rochdale",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.518789126619456,
+    "longitude": -46.776314621684534
+  },
+  {
+    "nome": "Unidade Hotel",
+    "endereco": "Avenida dos Autonomistas, 2973",
+    "bairro": "Centro",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.530387510505403,
+    "longitude": -46.78680733964039
+  },
+  {
+    "nome": "Unidade India",
+    "endereco": "Rua Águas da Prata, 323",
+    "bairro": "Rochdale",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.51455675,
+    "longitude": -46.778536200000005
+  },
+  {
+    "nome": "Unidade Jackson",
+    "endereco": "Rua Cactus, 45",
+    "bairro": "Jardim das Flores",
+    "cidade": "Osasco",
+    "uf": "SP"
+  },
+  {
+    "nome": "Unidade Juliet",
+    "endereco": "Rua Duarte da Costa, 23",
+    "bairro": "Jardim Veloso",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.5643594,
+    "longitude": -46.7994452
+  },
+  {
+    "nome": "Unidade Kilo",
+    "endereco": "Avenida São José, 1540",
+    "bairro": "Ayrosa",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.51285069367723,
+    "longitude": -46.760822543989995
+  },
+  {
+    "nome": "Unidade Lima",
+    "endereco": "Rua Ari Barroso, 101",
+    "bairro": "Presidente Altino",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.525273328723383,
+    "longitude": -46.77145050296021
+  },
+  {
+    "nome": "Unidade Lombardia",
+    "endereco": "Avenida dos Autonomistas, 4961",
+    "bairro": "Km 18",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.530387510505403,
+    "longitude": -46.78680733964039
+  },
+  {
+    "nome": "Unidade Madonna",
+    "endereco": "Avenida Maria Campos, 120",
+    "bairro": "Centro",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.53032627043816,
+    "longitude": -46.773786726756214
+  },
+  {
+    "nome": "Unidade Mazzochi",
+    "endereco": "Avenida dos Autonomistas, 5600",
+    "bairro": "Km 18",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.530387510505403,
+    "longitude": -46.78680733964039
+  },
+  {
+    "nome": "Unidade Mike",
+    "endereco": "Avenida João Batista, 907",
+    "bairro": "Centro",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.52877322360535,
+    "longitude": -46.78181814816325
+  },
+  {
+    "nome": "Unidade MSM",
+    "endereco": "Rua Presidente Costa e Silva, 1048",
+    "bairro": "Helena Maria",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.500051892199924,
+    "longitude": -46.79571010973469
+  },
+  {
+    "nome": "Unidade Nova João de Andrade",
+    "endereco": "Avenida João de Andrade, 685",
+    "bairro": "Santo Antônio",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.55338350762223,
+    "longitude": -46.80093063737417
+  },
+  {
+    "nome": "Unidade Nova Piratininga",
+    "endereco": "Avenida Edmundo Amaral, 41",
+    "bairro": "Piratininga",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.516216725374534,
+    "longitude": -46.80256154610098
+  },
+  {
+    "nome": "Unidade November",
+    "endereco": "Avenida São José, 1480",
+    "bairro": "Ayrosa",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.513062487181575,
+    "longitude": -46.76135743784744
+  },
+  {
+    "nome": "Unidade Novo Cauá",
+    "endereco": "Avenida Presidente Kennedy, 2470",
+    "bairro": "Remédios",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.521311493271963,
+    "longitude": -46.77245217951105
+  },
+  {
+    "nome": "Unidade Novo Osasco",
+    "endereco": "Avenida Novo Osasco, 85",
+    "bairro": "Bussocaba",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.56510587562789,
+    "longitude": -46.787674337164454
+  },
+  {
+    "nome": "Unidade Novo West",
+    "endereco": "Avenida Doutor Alberto Jackson Byington, 1431",
+    "bairro": "Industrial Anhangüera",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.49633947418795,
+    "longitude": -46.768337699239915
+  },
+  {
+    "nome": "Unidade Oliveira",
+    "endereco": "Rua São Francisco, S/N",
+    "bairro": "Vila Menck",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.495067898670467,
+    "longitude": -46.76624819081734
+  },
+  {
+    "nome": "Unidade Oliveira & Lima",
+    "endereco": "Avenida das Nações Unidas, 214",
+    "bairro": "Bonfim",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.523648509344568,
+    "longitude": -46.798021610013556
+  },
+  {
+    "nome": "Unidade Ônix",
+    "endereco": "Rua Francisco de Paula Alvarenga, 316",
+    "bairro": "Ayrosa",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.51241409052017,
+    "longitude": -46.771374164928986
+  },
+  {
+    "nome": "Unidade Oscar",
+    "endereco": "Rua Quinze de Novembro, 700",
+    "bairro": "Cipava",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.55360586338447,
+    "longitude": -46.789602698332686
+  },
+  {
+    "nome": "Unidade Paina",
+    "endereco": "Avenida General Pedro Pinho, 229",
+    "bairro": "Pestana",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.531667418302487,
+    "longitude": -46.80197778560381
+  },
+  {
+    "nome": "Unidade Papa",
+    "endereco": "Rua João Antônio Prado, 97",
+    "bairro": "Jardim das Flores",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.541784689186322,
+    "longitude": -46.794682337924655
+  },
+  {
+    "nome": "Unidade Parada 52",
+    "endereco": "Avenida João de Andrade, 1901",
+    "bairro": "Santo Antônio",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.563150913159255,
+    "longitude": -46.79795835871177
+  },
+  {
+    "nome": "Unidade Parati",
+    "endereco": "Avenida João de Andrade, 1120",
+    "bairro": "Santo Antônio",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.55338350762223,
+    "longitude": -46.80093063737417
+  },
+  {
+    "nome": "Unidade Parque das Esmeraldas",
+    "endereco": "Avenida Presidente Médici, 2258",
+    "bairro": "Vila Menck",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.508119605447952,
+    "longitude": -46.76342586020935
+  },
+  {
+    "nome": "Unidade Parque Palmares",
+    "endereco": "Rua Giuseppe Sacco, 583",
+    "bairro": "Bandeiras",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.552631053782168,
+    "longitude": -46.81563839831326
+  },
+  {
+    "nome": "Unidade Pernambucana",
+    "endereco": "Rua Pernambucana, 21",
+    "bairro": "Conceição",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.57266957845798,
+    "longitude": -46.80210787933837
+  },
+  {
+    "nome": "Unidade Petrosasco",
+    "endereco": "Avenida Getúlio Vargas, 1485",
+    "bairro": "Piratininga",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.5055079,
+    "longitude": -46.7886818
+  },
+  {
+    "nome": "Unidade Ponte Metálica",
+    "endereco": "Avenida dos Autonomistas, 1987",
+    "bairro": "Vila Yara",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.530387510505403,
+    "longitude": -46.78680733964039
+  },
+  {
+    "nome": "Unidade Portal do Piratininga",
+    "endereco": "Rua Francisco Diogo de Assis Vasconcelos, 15",
+    "bairro": "Piratininga",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.518831744870226,
+    "longitude": -46.79475564191258
+  },
+  {
+    "nome": "Unidade Prata de Osasco",
+    "endereco": "Rua Águas da Prata, 190",
+    "bairro": "Rochdale",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.51455675,
+    "longitude": -46.778536200000005
+  },
+  {
+    "nome": "Unidade Prince",
+    "endereco": "Avenida Presidente Kennedy, 3411",
+    "bairro": "Remédios",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.521311493271963,
+    "longitude": -46.77245217951105
+  },
+  {
+    "nome": "Unidade Quebec",
+    "endereco": "Avenida dos Autonomistas, 5241",
+    "bairro": "Km 18",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.530387510505403,
+    "longitude": -46.78680733964039
+  },
+  {
+    "nome": "Unidade Recanto da Seringueira",
+    "endereco": "Avenida dos Autonomistas, 6849",
+    "bairro": "Km 18",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.530387510505403,
+    "longitude": -46.78680733964039
+  },
+  {
+    "nome": "Unidade RL",
+    "endereco": "Rua São Maurício, 42",
+    "bairro": "Km 18",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.528670919753655,
+    "longitude": -46.791994625608446
+  },
+  {
+    "nome": "Unidade Rochdalle",
+    "endereco": "Avenida Brasil, 1465",
+    "bairro": "Rochdale",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.5143309855063,
+    "longitude": -46.774613659925315
+  },
+  {
+    "nome": "Unidade Romeo",
+    "endereco": "Avenida dos Autonomistas, 6023",
+    "bairro": "Km 18",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.530387510505403,
+    "longitude": -46.78680733964039
+  },
+  {
+    "nome": "Unidade Rosa de Saron",
+    "endereco": "Avenida Padre Vicente Melillo, 700",
+    "bairro": "Umuarama",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.55022799936857,
+    "longitude": -46.775489932742225
+  },
+  {
+    "nome": "Unidade Safra",
+    "endereco": "Rua Agop Guzelian, 505",
+    "bairro": "Presidente Altino",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.526313542992394,
+    "longitude": -46.768025850692474
+  },
+  {
+    "nome": "Unidade Saint Germain",
+    "endereco": "Avenida dos Autonomistas, 3840",
+    "bairro": "Centro",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.530387510505403,
+    "longitude": -46.78680733964039
+  },
+  {
+    "nome": "Unidade São Bartolomeu",
+    "endereco": "Avenida Prefeito Hirant Sanazar, 2030",
+    "bairro": "Jardim D'Abril",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.55561192735616,
+    "longitude": -46.780818166282344
+  },
+  {
+    "nome": "Unidade São Francisco de Assis",
+    "endereco": "Avenida São José, 455",
+    "bairro": "Ayrosa",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.516868107909623,
+    "longitude": -46.77016155469733
+  },
+  {
+    "nome": "Unidade São Longuinho",
+    "endereco": "Avenida Presidente Médici, 375",
+    "bairro": "Aliança",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.502576949999998,
+    "longitude": -46.78492422650642
+  },
+  {
+    "nome": "Unidade Sena",
+    "endereco": "Avenida Presidente Kennedy, 6160",
+    "bairro": "Remédios",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.521311493271963,
+    "longitude": -46.77245217951105
+  },
+  {
+    "nome": "Unidade Serena",
+    "endereco": "Rua Serafim Marques dos Reis, 158",
+    "bairro": "Jardim Roberto",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.539971996457183,
+    "longitude": -46.8046140070194
+  },
+  {
+    "nome": "Unidade Sierra",
+    "endereco": "Rua Narciso Sturlini, 840",
+    "bairro": "Centro",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.542838734350703,
+    "longitude": -46.77387045881868
+  },
+  {
+    "nome": "Unidade Tagg II",
+    "endereco": "Avenida dos Remédios, 903",
+    "bairro": "Remédios",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.51700109535126,
+    "longitude": -46.75342181490637
+  },
+  {
+    "nome": "Unidade Tango",
+    "endereco": "Rua General Newton Estilac Leal, 1329",
+    "bairro": "Pestana",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.52770609586315,
+    "longitude": -46.80602775778447
+  },
+  {
+    "nome": "Unidade Tasca",
+    "endereco": "Avenida dos Autonomistas, 1828",
+    "bairro": "Centro",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.5341677,
+    "longitude": -46.772130476845746
+  },
+  {
+    "nome": "Unidade Tecfac",
+    "endereco": "Rua José Aristides Jofre, 10",
+    "bairro": "Jardim Adalgiza",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.55592495120428,
+    "longitude": -46.76087314699789
+  },
+  {
+    "nome": "Unidade Tex-17",
+    "endereco": "Avenida Getúlio Vargas, 108",
+    "bairro": "Piratininga",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.50835490827308,
+    "longitude": -46.78852331457848
+  },
+  {
+    "nome": "Unidade Top Gás",
+    "endereco": "Avenida Fuad Auada, 240",
+    "bairro": "Bonfim",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.52575888784056,
+    "longitude": -46.773526955384945
+  },
+  {
+    "nome": "Unidade Toscana",
+    "endereco": "Avenida Marechal Rondon, 156",
+    "bairro": "Centro",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.53035494713245,
+    "longitude": -46.78346586854336
+  },
+  {
+    "nome": "Unidade Trento",
+    "endereco": "Avenida Flora, 975",
+    "bairro": "Jaguaribe",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.56134021037402,
+    "longitude": -46.7903300117197
+  },
+  {
+    "nome": "Unidade Trevo do Jaraguá",
+    "endereco": "Avenida Doutor Mauro Lindemberg Monteiro, 126",
+    "bairro": "Industrial Anhanguera",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.481743772217676,
+    "longitude": -46.772130071281154
+  },
+  {
+    "nome": "Unidade Uniform",
+    "endereco": "Avenida Getúlio Vargas, 877",
+    "bairro": "Piratininga",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.50835490827308,
+    "longitude": -46.78852331457848
+  },
+  {
+    "nome": "Unidade Veloso",
+    "endereco": "Rua Antônio Queiroz da Silva, 17",
+    "bairro": "Bandeiras",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.55134650095232,
+    "longitude": -46.814872525074904
+  },
+  {
+    "nome": "Unidade Victor",
+    "endereco": "Avenida Visconde de Nova Granada, 181",
+    "bairro": "Centro",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.537590309603818,
+    "longitude": -46.78775100271639
+  },
+  {
+    "nome": "Unidade Vista Alegre",
+    "endereco": "Avenida Novo Osasco, 775",
+    "bairro": "Bussocaba",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.56510587562789,
+    "longitude": -46.787674337164454
+  },
+  {
+    "nome": "Unidade Whiskey",
+    "endereco": "Rua Padre Vicente Melillo, 1386",
+    "bairro": "Jardim Oriental",
+    "cidade": "Osasco",
+    "uf": "SP"
+  },
+  {
+    "nome": "Unidade Winner",
+    "endereco": "Avenida Sport Club Corinthians Paulista, 366",
+    "bairro": "Bussocaba",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.553265064893125,
+    "longitude": -46.7927288256152
+  },
+  {
+    "nome": "Unidade Winner",
+    "endereco": "Avenida Sport Club Corinthians Paulista, 366",
+    "bairro": "Bussocaba",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.553265064893125,
+    "longitude": -46.7927288256152
+  },
+  {
+    "nome": "Unidade X-ray",
+    "endereco": "Avenida Internacional, 15",
+    "bairro": "Santo Antônio",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.556608105752648,
+    "longitude": -46.79830419749084
+  },
+  {
+    "nome": "Unidade Yankee",
+    "endereco": "Avenida Valter Boveri, 828",
+    "bairro": "Bussocaba",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.563399654566535,
+    "longitude": -46.797648473356396
+  },
+  {
+    "nome": "Unidade Zulu",
+    "endereco": "Avenida Padre Vicente Melillo, 539",
+    "bairro": "Umuarama",
+    "cidade": "Osasco",
+    "uf": "SP",
+    "latitude": -23.55022799936857,
+    "longitude": -46.775489932742225
+  }
+]

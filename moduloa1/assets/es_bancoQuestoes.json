@@ -1,0 +1,129 @@
+{
+   "perguntas":[
+      {
+         "id":100,
+         "peso":5,
+         "tipo":"ME",
+         "enunciado":"¿Qué comando inserta datos?",
+         "alternativas":[
+            "Select",
+            "Update",
+            "Delete",
+            "Insert"
+         ],
+         "resposta":3
+      },
+      {
+         "id":101,
+         "peso":5,
+         "tipo":"ME",
+         "enunciado":"¿La clave foránea crea?",
+         "alternativas":[
+            "Tabla",
+            "Índice",
+            "Vínculo",
+            "Campo"
+         ],
+         "resposta":2
+      },
+      {
+         "id":102,
+         "peso":5,
+         "tipo":"ME",
+         "enunciado":"¿La normalización tiene la función de?",
+         "alternativas":[
+            "Redundancia",
+            "Velocidad",
+            "Complejidad",
+            "Tamaño"
+         ],
+         "resposta":0
+      },
+      {
+         "id":201,
+         "peso":2,
+         "tipo":"VF",
+         "enunciado":"Una clase puede heredar atributos y métodos de solo otra clase.",
+         "alternativas":[
+            "Falso",
+            "Verdadero"
+         ],
+         "resposta":0
+      },
+      {
+         "id":301,
+         "peso":2,
+         "tipo":"VF",
+         "enunciado":"Los objetos son instancias de clases.",
+         "alternativas":[
+            "Falso",
+            "Verdadero"
+         ],
+         "resposta":1
+      },
+      {
+         "id":501,
+         "peso":10,
+         "tipo":"REL",
+         "enunciado":"SCRUM 1: Relacione el término de la fila superior con el concepto más adecuado de la fila inferior derecha.",
+         "alternativas":[
+            [
+               "Sprint",
+               "Product Backlog",
+               "Daily Scrum"
+            ],
+            [
+               "Reunión diaria para sincronizar el equipo",
+               "Período de tiempo para el desarrollo",
+               "Lista priorizada de elementos a desarrollar"
+            ]
+         ],
+         "resposta":[
+            [
+               0,
+               1
+            ],
+            [
+               1,
+               3
+            ],
+            [
+               2,
+               1
+            ]
+         ]
+      },
+      {
+         "id":502,
+         "peso":10,
+         "tipo":"REL",
+         "enunciado":"SCRUM 2: Relacione el término de la fila superior con el concepto más adecuado de la fila inferior derecha.",
+         "alternativas":[
+            [
+               "Scrum Master",
+               "Product Owner",
+               "Equipo de Desarrollo"
+            ],
+            [
+               "Facilitador del proceso Scrum y servidor del equipo",
+               "Responsable de la visión del producto y la priorización del backlog",
+               "Responsable de la creación del producto"
+            ]
+         ],
+         "resposta":[
+            [
+               0,
+               0
+            ],
+            [
+               1,
+               1
+            ],
+            [
+               2,
+               2
+            ]
+         ]
+      }
+   ]
+}

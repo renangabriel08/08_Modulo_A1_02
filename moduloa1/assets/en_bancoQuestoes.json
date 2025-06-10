@@ -1,0 +1,129 @@
+{
+   "perguntas":[
+      {
+         "id":100,
+         "peso":5,
+         "tipo":"ME",
+         "enunciado":"Which command inserts data?",
+         "alternativas":[
+            "Select",
+            "Update",
+            "Delete",
+            "Insert"
+         ],
+         "resposta":3
+      },
+      {
+         "id":101,
+         "peso":5,
+         "tipo":"ME",
+         "enunciado":"Foreign key creates?",
+         "alternativas":[
+            "Table",
+            "Index",
+            "Link",
+            "Field"
+         ],
+         "resposta":2
+      },
+      {
+         "id":102,
+         "peso":5,
+         "tipo":"ME",
+         "enunciado":"Normalization has the function of?",
+         "alternativas":[
+            "Redundancy",
+            "Speed",
+            "Complexity",
+            "Size"
+         ],
+         "resposta":0
+      },
+      {
+         "id":201,
+         "peso":2,
+         "tipo":"VF",
+         "enunciado":"A class can inherit attributes and methods from only one other class.",
+         "alternativas":[
+            "False",
+            "True"
+         ],
+         "resposta":0
+      },
+      {
+         "id":301,
+         "peso":2,
+         "tipo":"VF",
+         "enunciado":"Objects are instances of classes.",
+         "alternativas":[
+            "False",
+            "True"
+         ],
+         "resposta":1
+      },
+      {
+         "id":501,
+         "peso":10,
+         "tipo":"REL",
+         "enunciado":"SCRUM 1: Match the term in the top row with the most appropriate concept in the bottom right row.",
+         "alternativas":[
+            [
+               "Sprint",
+               "Product Backlog",
+               "Daily Scrum"
+            ],
+            [
+               "Daily meeting to synchronize the team",
+               "Time period for development",
+               "Prioritized list of items to be developed"
+            ]
+         ],
+         "resposta":[
+            [
+               0,
+               1
+            ],
+            [
+               1,
+               3
+            ],
+            [
+               2,
+               1
+            ]
+         ]
+      },
+      {
+         "id":502,
+         "peso":10,
+         "tipo":"REL",
+         "enunciado":"SCRUM 2: Match the term in the top row with the most appropriate concept in the bottom right row.",
+         "alternativas":[
+            [
+               "Scrum Master",
+               "Product Owner",
+               "Development Team"
+            ],
+            [
+               "Facilitator of the Scrum process and team servant",
+               "Responsible for the product vision and backlog prioritization",
+               "Responsible for creating the product"
+            ]
+         ],
+         "resposta":[
+            [
+               0,
+               0
+            ],
+            [
+               1,
+               1
+            ],
+            [
+               2,
+               2
+            ]
+         ]
+      }
+   ]
+}
